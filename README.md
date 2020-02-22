@@ -1,6 +1,6 @@
 # DRP_HOSPITAL_AI
 
-# DO NOT RESELL OR REREALASE (Made originally)
+# DO NOT RESELL OR REREALASE (Made originally for DreamlessRP)
 
 # REQUIRED
 
@@ -10,8 +10,4 @@
 
 [mythic_progbar](https://github.com/mythicrp/mythic_progbar)
 
-[esx_ambulancejob](https://github.com/ESX-Org/esx_ambulancejob)
-
-Add this in your server.cfg:
-
-start drp_hospital_ai
+# 
