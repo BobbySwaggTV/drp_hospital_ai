@@ -1,6 +1,6 @@
 # DRP_HOSPITAL_AI
 
-# DO NOT RESELL OR REREALASE (Made originally for DreamlessRP)
+# DO NOT RESELL OR REREALASE (Made originally)
 
 # REQUIRED
 
