@@ -92,9 +92,7 @@ Citizen.CreateThread(function()
                                     }, function(status)
                                         if not status then
                                             Citizen.Wait(1000)
-                                        --your revive script code goes here
                                             TriggerEvent('esx_ambulancejob:revive')
-                                        --end revive code
                                             TriggerServerEvent('drp_hospital_ai:billing')
                                             EnableControlAction(0, 54, true)
                                             end
