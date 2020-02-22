@@ -1,7 +1,5 @@
 # DRP_HOSPITAL_AI
 
-# [ESX]
-
 # DO NOT RESELL OR REREALASE (Made originally for DreamlessRP)
 
 # REQUIRED
